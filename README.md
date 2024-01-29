@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tawfiqul Islam
-- 👀 I’m  a Banker and Data Analyst.
-- 🌱 I’have expertise on Advance Excel,Power BI,Tableau,Google Data Studio, SQL,Python for data Analysis and Learning BIG Data.
+- 👀 I’m  a Banker, Feature writer and Data Analyst.
+- 🌱 I’have expertise on Advance Excel,Power BI,Tableau,Google Data Studio, SQL,Python for data Analysis and Learning BIG Data Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at tawfiqul1983@gmail.com  +88 01727422461 (Whatsapp) 
 
